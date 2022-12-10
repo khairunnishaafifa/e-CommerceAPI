@@ -21,7 +21,7 @@
     "datauri": "^2.0.0",
     "debug": "~2.6.9",
     "dotenv": "^8.1.0",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "faker": "^4.1.0",
     "hbs": "~4.0.4",
     "http-errors": "~1.6.3",
